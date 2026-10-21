@@ -16,8 +16,7 @@
     "slides": [
       { "title": "The Day We Met", "description": "A first smile that changed everything." },
       { "title": "Late night calls", "description": "The nights we stayed up until sunrise." },
-      { "title": "First date", "description": "The night we went to the movies." },
-      { "title": "Our first trip", "description": "Every road led to us." }
+      { "title": "First date", "description": "The night we went to the movies." }
     ]
   },
   "timeline": {
@@ -31,10 +30,6 @@
       {
         "title": "First date",
         "description": "Nervous laughs, easy conversation, and a night that didn't want to end."
-      },
-      {
-        "title": "First trip",
-        "description": "New places, same us. Somehow everything felt like home."
       },
       {
         "title": "Late night calls",
