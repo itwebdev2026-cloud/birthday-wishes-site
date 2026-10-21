@@ -7,7 +7,7 @@ import GiftBox from '../../components/GiftBox'
 import CakeSection from '../../components/CakeSection'
 import StorySection from '../../components/StorySection'
 import Timeline from '../../components/Timeline'
-import PolaroidGallery from '../../components/PolaroidGallery'
+
 import ReasonsSection from '../../components/ReasonsSection'
 import VoiceMessage from '../../components/VoiceMessage'
 import Ending from '../../components/Ending'
@@ -96,7 +96,7 @@ export default function Page(){
       <StorySection />
       <Timeline />
       <ReasonsSection />
-      <PolaroidGallery />
+      
       <VoiceMessage />
       <GiftBox />
       <CakeSection />
