@@ -15,8 +15,7 @@
     "title": "Our Story",
     "slides": [
       { "title": "The Day We Met", "description": "A first smile that changed everything." },
-      { "title": "Late night calls", "description": "The nights we stayed up until sunrise." },
-      { "title": "First date", "description": "The night we went to the movies." }
+      { "title": "Late night calls", "description": "The nights we stayed up until sunrise." }
     ]
   },
   "timeline": {
@@ -26,12 +25,7 @@
       {
         "title": "We met",
         "description": "A random moment turned into the start of everything."
-      },
-      {
-        "title": "First date",
-        "description": "Nervous laughs, easy conversation, and a night that didn't want to end."
-      },
-      {
+      },       {
         "title": "Late night calls",
         "description": "Hours felt like minutes whenever your voice was on the other end."
       },
