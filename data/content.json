@@ -25,34 +25,24 @@
     "title": "Our Timeline",
     "entries": [
       {
-        "year": "2023",
         "title": "We met",
-        "description": "A random moment turned into the start of everything.",
-        "photo": "https://images.unsplash.com/photo-1516483638261-f4dbaf036963?auto=format&fit=crop&w=1200&q=80"
+        "description": "A random moment turned into the start of everything."
       },
       {
-        "year": "2023",
         "title": "First date",
-        "description": "Nervous laughs, easy conversation, and a night that didn't want to end.",
-        "photo": "https://images.unsplash.com/photo-1524504388940-b1c1722653e1?auto=format&fit=crop&w=1200&q=80"
+        "description": "Nervous laughs, easy conversation, and a night that didn't want to end."
       },
       {
-        "year": "2024",
         "title": "First trip",
-        "description": "New places, same us. Somehow everything felt like home.",
-        "photo": "https://images.unsplash.com/photo-1500530855697-b586d89ba3ee?auto=format&fit=crop&w=1200&q=80"
+        "description": "New places, same us. Somehow everything felt like home."
       },
       {
-        "year": "2024",
         "title": "Late night calls",
-        "description": "Hours felt like minutes whenever your voice was on the other end.",
-        "photo": "https://images.unsplash.com/photo-1517841905240-472988babdf9?auto=format&fit=crop&w=1200&q=80"
+        "description": "Hours felt like minutes whenever your voice was on the other end."
       },
       {
-        "year": "Today",
         "title": "Your birthday",
-        "description": "And here we are, still writing our story together.",
-        "photo": null
+        "description": "And here we are, still writing our story together."
       }
     ]
   },
@@ -83,32 +73,6 @@
       }
     ]
   },
-  "gallery": {
-    "chapter": "Chapter 4",
-    "title": "Memory Gallery",
-    "photos": [
-      {
-        "title": "Late night city lights",
-        "caption": "That night when the world felt endless.",
-        "src": "https://images.unsplash.com/photo-1516483638261-f4dbaf036963?auto=format&fit=crop&w=1200&q=80"
-      },
-      {
-        "title": "Cozy coffee mornings",
-        "caption": "Soft light, warm smiles, and easy conversation.",
-        "src": "https://images.unsplash.com/photo-1524504388940-b1c1722653e1?auto=format&fit=crop&w=1200&q=80"
-      },
-      {
-        "title": "Sunset escape",
-        "caption": "A golden drive with the windows down.",
-        "src": "https://images.unsplash.com/photo-1500530855697-b586d89ba3ee?auto=format&fit=crop&w=1200&q=80"
-      },
-      {
-        "title": "Beautiful you",
-        "caption": "Beautiful you, my love",
-        "src": "https://images.unsplash.com/photo-1524504388940-b1c1722653e1?auto=format&fit=crop&w=1200&q=80"
-      }
-    ]
-  },
   "voice": {
     "chapter": "Chapter 5",
     "title": "This is for you",
@@ -124,7 +88,7 @@
     "buttonLabelOpening": "Opening...",
     "buttonLabelOpened": "Opened",
     "tapToOpenLabel": "Tap to open",
-    "letterText": "Dear you,\n\nThis letter has been waiting inside a little box until the perfect moment. Every memory with you feels like a page in our story. I love the way you laugh, the way your hand fits mine, and the way the world feels softer when you're near.\n\nHappy Birthday. This is for you.\n\nLove, me ❤️"
+    "letterText": "Dear Aien,\n\nThis letter has been waiting inside a little box until the perfect moment. Every memory with you feels like a page in our story. I love the way you laugh, the way your hand fits mine, and the way the world feels softer when you're near.\n\nHappy Birthday. This is for you.\n\nAkhum Anar ❤️"
   },
   "cake": {
     "chapter": "Chapter 7",
